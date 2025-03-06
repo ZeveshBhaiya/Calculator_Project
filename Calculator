@@ -1,2 +1,5 @@
 cout<<"Zarkhan Altaf:";
-cout<<"St-018:";
+cout<<"St-09:";
+int num1=5, num2=3;
+cout<<"multiply:"<<(5*3) ;
+
